@@ -7,6 +7,8 @@ document.querySelector('#calcular2').addEventListener('click', () =>{
         r = n1 + n2;
     }else if( op2 == '-'){
         r = n1 - n2;
+    }else if(op2 == '*'){
+        r = n1 * n2;
     }
     document.querySelector('#r2').innerHTML = r;
 });
