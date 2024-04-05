@@ -1,0 +1,14 @@
+body{
+  background-color: #c4f8ff;
+}
+.titulo{
+  color: #0077ff;
+}
+.resultado{
+  font-size: 10em;
+}
+.btn{
+  padding: 10px 20px;
+  background: #00aeff;
+  color: #000000;
+}
